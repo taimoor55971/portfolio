@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Taimoor Khan",
+    "occupation": "Sophomore student of Computer Engineering and a Self-Taught Programmer ",
+    "description": "looking forward to tackle challenging tasks.",
+    "image": "tk.jpg",
+    "bio": "I am a Frontend React developer with good understanding of server-side NodeJs.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "khan.taimoor101@gmail.com",
+    "phone": "+923322236519",
+    "address": {
+      "street": "123 Fake Street",
+      "country": "Pakistan",
+      "city": "Quetta",
+      "zip": "ABC 123"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1m-CrnQfpb0ao9-Ad7MejoXfKMOvgjvcH/view",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/taimoor.khan.14606/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/taimoor-khan-96b19b190/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/taimoor55971",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Ghulam Ishaq Khan Institute of Technology",
+        "degree": "Bachelors in Computer Engineering",
+        "Years": "Aug 2019-August 2023",
+        "description": "Yet to be graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Afiniti",
+        "title": "Intern SQA",
+        "years": "AUgust 4 2020 - September 4 2020",
+        "description": "Quality testing for their call center product."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "C++",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Portfolio",
+        "category": " A Portfolio using HTML and CSS",
+        "image": "Portfolio.png",
+        "url": "https://taimoor55971.github.io/personal-web/"
+      },
+      {
+        "title": "ToDo App",
+        "category": "ToDo App built with MongoDB,ExpressJS,NodeJS ",
+        "image": "ToDO-App.png",
+        "url": "https://evening-journey-13851.herokuapp.com/"
+      },
+      {
+        "title": "A NewsLetter Signup",
+        "category": " A NewsLetter Signup built with  ExpressJS,NodeJS,Mailchimp ApI",
+        "image": "Newsletter.png",
+        "url": "https://blooming-tor-05122.herokuapp.com/"
+      },
+      {
+        "title": "Amazon Clone ",
+        "category": "MERN stack clone",
+        "image": "ss amazon.png",
+        "url": "https://hungry-saha-b077c0.netlify.app"
+      },
+      {
+        "title": "Blog site ",
+        "category": "EJS,MngoDB",
+        "image": "taimoorblog.herokuapp.com.png",
+        "url": "https://taimoorblog.herokuapp.com/"
+      }
+    ]
+  }
+}
